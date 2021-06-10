@@ -1,0 +1,54 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-image: url(Materiali/background.jpg);
+    background-size: cover ;
+}
+
+.blur{
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 10px;
+    margin: 25px 300px;
+    padding: 40px;
+}
+
+#logointestazione{
+    align-content: center;
+}
+
+#navbar{
+    background-color: lime;
+    border: 10px solid lime;
+}
+
+#Slogan{
+    color: lime;
+}
+
+ul{
+    color: white;
+}
+
+#carica1{
+    background-color: red;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#carica2{
+    background-color: orange;
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#carica3{
+    background-color: green;
+    width: 800px;
+    height: 30px;
+    border-radius: 10px;
+}
